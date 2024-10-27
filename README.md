@@ -6,3 +6,8 @@ My favorite ice cream flaver
 
 - Peppermint stick
 - Mint
+
+Stevie's favorite ice cream flavours:
+ - Meal worm
+ - Shrimp flakes
+ - Sunflower seeds
